@@ -67,5 +67,4 @@ Mon May 19 06:12:01 AM UTC 2025
 ```
 
 Проверка в браузере
-
-![[test.png]]
+![README](test.jpg)
