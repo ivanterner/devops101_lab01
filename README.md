@@ -6,7 +6,7 @@
 Скрипт запускать по крону раз в минуту, вывод сохранять в index.html дефолтного сайта.\
 Необходимо использовать:\
 [https://github.com/chubin/wttr.in](https://github.com/chubin/wttr.in) (json формат)\
-библиотека jq для работы с json\
+библиотека jq для работы с json
 
 
 
